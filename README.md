@@ -5,7 +5,7 @@
 2. Press `Insert` to view the in-game menu where you can adjust settings as you please.
 3. Done
 ## Features
-- Trainer
+- Tools
     - Save/load state
     - God mode
     - Fly mode
