@@ -4,6 +4,8 @@
 1. Run the launcher either before Mirror's Edge or when Mirror's Edge is running.
 2. Press `Insert` to view the in-game menu where you can adjust settings as you please.
 3. Done
+## Virus checker
+https://www.virustotal.com/gui/file/15a6d3e837cbd5fc5fc3d72a6dbb37afc194c5aadcba07f5ebd42bce5665fe40/detection
 ## Features
 - Tools
     - Save/load state
