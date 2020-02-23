@@ -7,8 +7,10 @@
 ## Virus check
 https://www.virustotal.com/gui/file/15a6d3e837cbd5fc5fc3d72a6dbb37afc194c5aadcba07f5ebd42bce5665fe40/detection
 ## Features
+- Menu (looks white)
 - World
 - Tools
+- Dolly
     - Save/load state
     - God mode
     - Fly mode
@@ -17,4 +19,5 @@ https://www.virustotal.com/gui/file/15a6d3e837cbd5fc5fc3d72a6dbb37afc194c5aadcba
     - Strang tool
     - Level Streamer
     - Dolly (Character Recorder)
-    ## https://github.com/btbd/mmultiplayer
+    ## credits from https://github.com/btbd/mmultiplayer
+    
