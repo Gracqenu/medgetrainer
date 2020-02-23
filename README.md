@@ -1,4 +1,4 @@
-# Mirror's Edge Trainer Mod
+# Mirror's Edge imgui cheat
 
 ## Setup 
 1. Run the launcher either before Mirror's Edge or when Mirror's Edge is running.
