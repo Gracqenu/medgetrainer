@@ -19,5 +19,5 @@ https://www.virustotal.com/gui/file/15a6d3e837cbd5fc5fc3d72a6dbb37afc194c5aadcba
     - Strang tool
     - Level Streamer
     - Dolly (Character Recorder)
-    ## credits from https://github.com/btbd/mmultiplayer
+    ## credits from creator https://github.com/btbd/mmultiplayer
     
