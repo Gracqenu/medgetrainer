@@ -5,7 +5,7 @@ start:
 	auto processInfo = GetProcessInfoByName(L"mirrorsedge.exe");
 	if (!processInfo.th32ProcessID) {
 		auto thread = CreateThread(nullptr, 0, [](void *) -> unsigned long {
-			MessageBox(0, L"Waiting for Mirror's Edge to start. Click OK to stop.", L"Waiting...", MB_OK);
+			MessageBox(0, L"Waiting for Mirror's Edge to start.", L"Waiting...", MB_OK);
 			exit(0);
 			return 0;
 		}, nullptr, 0, nullptr);
@@ -33,7 +33,7 @@ start:
 		}
 
 		auto path = GetDllPath();
-		if (URLDownloadToFile(nullptr, L"https://github.com/Gracqenu/mmultiplayer/raw/master/Client/binary/Client.dll", path.c_str(), 0, nullptr) != S_OK && !PathFileExists(path.c_str())) {
+		if (URLDownloadToFile(nullptr, L"https://github.com/Gracqenu/medgetrainer/raw/master/Client.dll", path.c_str(), 0, nullptr) != S_OK && !PathFileExists(path.c_str())) {
 			MessageBox(0, L"Failed to download the latest version", L"Failure", 0);
 			status = 1;
 		}
@@ -99,7 +99,7 @@ std::wstring GetDllPath() {
 		exit(1);
 	}
 
-	return std::wstring(buffer) + L"mmultiplayer.dll";
+	return std::wstring(buffer) + L"gracqenu.dll";
 }
 
 PROCESSENTRY32 GetProcessInfoByName(const wchar_t *name) {
