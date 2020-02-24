@@ -16,13 +16,13 @@ https://www.virustotal.com/gui/file/15a6d3e837cbd5fc5fc3d72a6dbb37afc194c5aadcba
 - World
 - Tools
 - Dolly
-    - Save/load state
-    - God mode
+    - Save/load state (checkpoint and load)
+    - God mode 
     - Fly mode
-    - KG tool
-    - Beamer tool
-    - Strang tool
-    - Level Streamer
+    - KG tool (do kickglitch perfectly on 1 frame you can do every time two kickglitches on one wall)
+    - Beamer tool (it’s Beamer but do every time perfectly)
+    - Strang tool (bhop)
+    - Level Streamer (you can load level by clicking for example edge_p_2)
     - Dolly (Character Recorder)
     ## credits from creator https://github.com/btbd/mmultiplayer
     
